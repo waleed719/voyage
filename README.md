@@ -22,11 +22,11 @@ Travel Diaries is a creative Flutter-based mobile application that allows users 
 
 |Home | Event |
 |-----------------|----------------|
-| ![Draggable](assets/images/ss1) | ![Dropped](assets/images/ss2.png) |
+| ![Home](assets/images/ss1) | ![Event](assets/images/ss2.png) |
 
 |Dairy | Dairy |
 |-----------------|----------------|
-| ![Draggable](assets/images/ss2) | ![Dropped](assets/images/ss4.png) |
+| ![Dairy](assets/images/ss2) | ![Dairy1](assets/images/ss4.png) |
 
 
 <!-- ### 🎬 Video Walkthrough
