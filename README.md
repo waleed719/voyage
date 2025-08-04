@@ -19,14 +19,16 @@ Travel Diaries is a creative Flutter-based mobile application that allows users 
 ## 🎥 Demo
 
 ### 📸 Screenshots
-
-|Home | Event |
-|-----------------|----------------|
-| ![Home](assets/images/ss1) | ![Event](assets/images/ss2.png) |
-
-|Dairy | Dairy |
-|-----------------|----------------|
-| ![Dairy](assets/images/ss2) | ![Dairy1](assets/images/ss4.png) |
+<table>
+  <tr>
+    <td><img src="assets/images/ss1" alt="Home" width="250"/></td>
+    <td><img src="assets/images/ss2.png" alt="Event" width="250"/></td>
+  </tr>
+  <tr>
+    <td><img src="assets/images/ss2" alt="Dairy" width="250"/></td>
+    <td><img src="assets/images/ss4.png" alt="Dairy1" width="250"/></td>
+  </tr>
+</table>
 
 
 <!-- ### 🎬 Video Walkthrough
